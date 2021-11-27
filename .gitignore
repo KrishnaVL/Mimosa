@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Asset files
+Content/Construction_VOL1/*
+Content/Construction_VOL2/*
+Content/Downtown_West/*
+Content/IndustrialArea/*
+Content/SubwayTrain/*
